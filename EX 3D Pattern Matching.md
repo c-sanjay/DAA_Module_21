@@ -67,7 +67,7 @@ KMPSearch(pat, txt)
 ```
 ## Output:
 
-
+![image](https://github.com/user-attachments/assets/8a158d6f-b56b-482d-80f9-dca994e37f3e)
 
 ## Result:
 The brute force substring search program executed successfully and returned the starting index of the match or 0 if no match was found.
